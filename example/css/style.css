@@ -17,6 +17,7 @@
 
 body {
     font-family: 'Cutive Mono', monospace;
+    justify-content: left;
 }
 
 @media(min-width:992px){.bag.fixed{width: 784px;}}
